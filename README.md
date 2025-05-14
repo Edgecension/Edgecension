@@ -31,6 +31,8 @@ After completing the Google Cybersecurity Professional Certificate course and an
 <div>
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge"/>
 <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials Certificate Badge"/>
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Essentials Certificate Badge"/>
+
 
 
 
