@@ -51,5 +51,6 @@ After completing the Google Cybersecurity Professional Certificate course and an
 </div>
 
 ## Projects
+- Managing Security Risks
 - Detection Lab
 - SOC Automation Project
