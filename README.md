@@ -45,5 +45,3 @@ After completing the Google Cybersecurity Professional Certificate course and an
 
 ## Projects
 - <a href="https://github.com/Edgecension/Conducting-A-Security-Audit/tree/main">Conducting A Security Audit</a>
-- Detection Lab
-- SOC Automation Project
