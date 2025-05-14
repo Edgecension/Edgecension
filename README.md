@@ -10,7 +10,7 @@ After completing the Google Cybersecurity Professional Certificate course and an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conducting a Security Audit                   | <a href="https://google.com">Detection Lab</a>|
+| Managing Security Risks                       | <a href="https://github.com/Edgecension/Managing-Security-Risks/tree/main">Conducting A Security Audit</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -51,6 +51,6 @@ After completing the Google Cybersecurity Professional Certificate course and an
 </div>
 
 ## Projects
-- Managing Security Risks
+<a href="https://github.com/Edgecension/Managing-Security-Risks/tree/main</a>
 - Detection Lab
 - SOC Automation Project
