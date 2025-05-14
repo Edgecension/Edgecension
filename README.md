@@ -1,10 +1,10 @@
 # Hello, I'm Hao
 <a href="https://linkedin.com/in/hao-han-7a7853216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A resourceful small business owner of a knife-making start up seeking to bring meticulous craftsmanship and entrepreneurial spirit to a dynamic team oriented environment. Proven ability to manage projects in a timely manner with positive results and a strong commitment to quality and innovation.![image](https://github.com/user-attachments/assets/55da2365-950e-431c-8043-8373adb9fdf0)
+A resourceful small business owner of a knife-making start up seeking to bring meticulous, aspirational and entrepreneurial spirit into the realms of information technology and cybersecurity. Proven ability to manage projects in a timely manner with positive results and a strong commitment to quality and innovation.
 
 ## Objective
-After completing the Google Cybersecurity Professional Certificate course and an accelerated cybersecurity training curriculum from Per Scholas, it has led me to develop a passion for cybersecurity. Now I'm eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+After completing the Google Cybersecurity Professional Certificate course and an accelerated cybersecurity training curriculum from Per Scholas, it has led me to develop a passion for IT and cybersecurity. I'm eager to transition into this field, aiming for an internship or an entry-level role.
 
 ## Skills
 
