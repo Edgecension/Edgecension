@@ -12,7 +12,7 @@ After completing the Google Cybersecurity Professional Certificate course and an
 |-----------------------------------------------|----------------------------|
 | Managing Security Risks                       | <a href="https://github.com/Edgecension/Conducting-A-Security-Audit/tree/main">Conducting A Security Audit</a>|
 | Securing Networks                             | <a href="https://github.com/Edgecension/Analyzing-Network-Layer-Communication/tree/main">Analyzing Network Layer Communication</a>|
-| Network Attacks Tactics And Defenses          | <a href="https://github.com/Edgecension/Analyzing-Network-Layer-Communication/tree/main">Analyze Networks & Attacks Communication</a>|
+| Network Attacks Tactics And Defenses          | <a href="https://github.com/Edgecension/Analyzing-Network-Layer-Communication/tree/main">Analyze Networks & Attacks</a>|
 
 
 
