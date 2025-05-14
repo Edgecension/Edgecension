@@ -11,6 +11,8 @@ After completing the Google Cybersecurity Professional Certificate course and an
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Managing Security Risks                       | <a href="https://github.com/Edgecension/Conducting-A-Security-Audit/tree/main">Conducting A Security Audit</a>|
+| Securing Networks                             | <a href="https://github.com/Edgecension/Conducting-A-Security-Audit/tree/main">Conducting A Security Audit</a>|
+
 
 ## Tools
 
