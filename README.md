@@ -1,4 +1,4 @@
-# Hello, I'm Hao
+# Hao's Cybersecurity Portfolio
 <a href="https://linkedin.com/in/hao-han-7a7853216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A resourceful small business owner of a knife-making start up seeking to bring meticulous, aspirational and entrepreneurial spirit into the realms of information technology and cybersecurity. Proven ability to manage projects in a timely manner with positive results and a strong commitment to quality and innovation.
