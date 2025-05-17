@@ -47,3 +47,4 @@ After completing the Google Cybersecurity Professional Certificate course and an
 - <a href="https://github.com/Edgecension/Analyzing-Network-Layer-Communication/tree/main">Analyzing Network Layer Communication</a>
 - <a href="https://github.com/Edgecension/Analyze-Networks-Attacks/tree/main">Analyze Networks & Attacks</a>
 - <a href="https://github.com/Edgecension/Managing-File-Permissions-In-Linux/tree/main">Managing File Permissions In Linux</a>
+- <a href="https://github.com/Edgecension/Decrypting-An-Encrypted-Message/tree/main">Decrypting An Encrypted Message</a>
