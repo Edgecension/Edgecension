@@ -45,6 +45,7 @@ After completing the Google Cybersecurity Professional Certificate course and an
 
 ## Projects
 - <a href="https://github.com/Edgecension/Conducting-A-Security-Audit/tree/main">Conducting A Security Audit</a>
+- <a href="https://github.com/Edgecension/Analyzing-A-Vulnerable-System/tree/main">Analyzing A Vulnerable System</a>
 - <a href="https://github.com/Edgecension/Analyzing-Network-Layer-Communication/tree/main">Analyzing Network Layer Communication</a>
 - <a href="https://github.com/Edgecension/Analyze-Networks-Attacks/tree/main">Analyze Networks & Attacks</a>
 - <a href="https://github.com/Edgecension/Managing-File-Permissions-In-Linux/tree/main">Managing File Permissions In Linux</a>
