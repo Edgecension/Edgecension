@@ -11,6 +11,7 @@ After completing the Google Cybersecurity Professional Certificate course and an
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Managing Security Risks                       | <a href="https://github.com/Edgecension/Conducting-A-Security-Audit/tree/main">Conducting A Security Audit</a>|
+| Identifying System Vulnerabilities            | <a href="https://github.com/Edgecension/Analyzing-A-Vulnerable-System/tree/main">Analyzing A Vulnerable System</a>|
 | Securing Networks                             | <a href="https://github.com/Edgecension/Analyzing-Network-Layer-Communication/tree/main">Analyzing Network Layer Communication</a>|
 | Network Attacks Tactics And Defenses          | <a href="https://github.com/Edgecension/Analyze-Networks-Attacks/tree/main">Analyze Networks & Attacks</a>|
 | Linux: Authenticate & Authorize Users         | <a href="https://github.com/Edgecension/Managing-File-Permissions-In-Linux/tree/main">Managing File Permissions In Linux</a>|
