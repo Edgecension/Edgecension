@@ -16,6 +16,7 @@ After completing the Google Cybersecurity Professional Certificate course and an
 | Network Attacks Tactics And Defenses          | <a href="https://github.com/Edgecension/Analyze-Networks-Attacks/tree/main">Analyze Networks & Attacks</a>|
 | Linux: Authenticate & Authorize Users         | <a href="https://github.com/Edgecension/Managing-File-Permissions-In-Linux/tree/main">Managing File Permissions In Linux</a>|
 | Linux: Encryption Methods                     | <a href="https://github.com/Edgecension/Decrypting-An-Encrypted-Message/tree/main">Decrypting An Encrypted Message</a>|
+| Threat Modeling                               | <a href="https://github.com/Edgecension/PASTA-Threat-Model-Framework/tree/main">PASTA Threat Model Framework</a>|
 
 
 
