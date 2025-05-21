@@ -54,3 +54,4 @@ After completing the Google Cybersecurity Professional Certificate course and an
 - <a href="https://github.com/Edgecension/Managing-File-Permissions-In-Linux/tree/main">Managing File Permissions In Linux</a>
 - <a href="https://github.com/Edgecension/Decrypting-An-Encrypted-Message/tree/main">Decrypting An Encrypted Message</a>
 - <a href="https://github.com/Edgecension/PASTA-Threat-Model-Framework/tree/main">PASTA Threat Model Framework</a>
+- <a href="https://github.com/Edgecension/Applying-A-Basic-Filter-And-Inspecting-A-Packet/tree/main">Applying A Basic Filter And Inspecting A Packet</a>
