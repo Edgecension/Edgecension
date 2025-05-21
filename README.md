@@ -18,7 +18,7 @@ After completing the Google Cybersecurity Professional Certificate course and an
 | Linux: Authenticate & Authorize Users         | <a href="https://github.com/Edgecension/Managing-File-Permissions-In-Linux/tree/main">Managing File Permissions In Linux</a>|
 | Linux: Encryption Methods                     | <a href="https://github.com/Edgecension/Decrypting-An-Encrypted-Message/tree/main">Decrypting An Encrypted Message</a>|
 | Threat Modeling                               | <a href="https://github.com/Edgecension/PASTA-Threat-Model-Framework/tree/main">PASTA Threat Model Framework</a>|
-| Wireshark: Network Traffic                    | <a href="https://github.com/Edgecension/Analyzing-A-Packet/tree/main">Analyzing A Packet</a>|
+| Wireshark: Analyzing A Packet                 | <a href="https://github.com/Edgecension/Applying-A-Basic-Filter-And-Inspecting-Packet/tree/main">Applying A Basic Filter And Inspecting Packet</a>|
 
 
 
