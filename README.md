@@ -2,7 +2,6 @@
 <a href="https://linkedin.com/in/hao-han-7a7853216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.etsy.com/shop/haohanknives"><img src="https://img.shields.io/badge/-Etsy-f16521?style=for-the-badge&logo=etsy&logoColor=white" /></a>
 
-## Objective
 A motivated and detail oriented professional with hands on experience in precision craftsmanship, quality control, and mechanical assembly. As an owner of a small knife making business, I bring strong entrepreneurial skills, a commitment to high quality standards and a deep understanding of materials and fabrication. Seeking to leverage my technical expertise and problem solving abilities in a challenging role that values craftsmanship, reliability and continual improvement.
 
 ## Skills
