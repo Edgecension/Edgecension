@@ -2,11 +2,8 @@
 <a href="https://linkedin.com/in/hao-han-7a7853216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.etsy.com/shop/haohanknives"><img src="https://img.shields.io/badge/-Etsy-f16521?style=for-the-badge&logo=etsy&logoColor=white" /></a>
 
-A resourceful owner of a small knife making business seeking to bring meticulous, aspirational and entrepreneurial spirit into the realms of information technology, cybersecurity or manufacturing. After completing an accelerated cybersecurity training curriculum from Per Scholas and obtaining the Google Cybersecurity Certificate, I'm confident and motivated to transition into a role related to any of these fields and industries.
-
-
 ## Objective
-After completing the Google Cybersecurity Professional Certificate course and an accelerated cybersecurity training curriculum from Per Scholas, it has led me to develop a passion for IT and cybersecurity. I'm eager to transition into this field, aiming for an internship or an entry-level role.
+A motivated and detail oriented professional with hands on experience in precision craftsmanship, quality control, and mechanical assembly. As an owner of a small knife making business, I bring strong entrepreneurial skills, a commitment to high quality standards and a deep understanding of materials and fabrication. Seeking to leverage my technical expertise and problem solving abilities in a challenging role that values craftsmanship, reliability and continual improvement.
 
 ## Skills
 
